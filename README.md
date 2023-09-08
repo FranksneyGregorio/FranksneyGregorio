@@ -10,7 +10,7 @@
 
 📚 Estou determinado a conquistar a certificação Salesforce Certified Platform Developer I, combinando minha formação em saúde com meu entusiasmo pelo desenvolvimento de sistemas.
 
-🌐 Sempre em busca de desafios, estudo inglês e alemão, acreditando que a diversidade linguística enriquece a comunicação e possibilita colaborações globais.
+🌐 Sempre em busca de desafios, estudo inglês, acreditando que a diversidade linguística enriquece a comunicação e possibilita colaborações globais.
 
 🤝 Vamos construir um futuro inovador juntos! Conecte-se e vamos explorar oportunidades na interseção entre saúde e tecnologia.
 

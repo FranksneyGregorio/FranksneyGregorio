@@ -1,4 +1,4 @@
-🚀 Desenvolvedor em Transição: Saúde para Tecnologia 🚀
+🚀  Integrando Saúde e Tecnologia 🚀
 
 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
